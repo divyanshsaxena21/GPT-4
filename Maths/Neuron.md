@@ -4,9 +4,8 @@ A neuron takes a vector of inputs $x$, multiplies each by a corresponding weigh
 $\text{output} = \text{activation}\!\left(\sum_{i} w_i \cdot x_i + b\right)$
 
 
+![[Pasted image 20260625190923-removebg-preview 1.jpg]]
 
-
-![[Pasted image 20260625190923.png]]
 
 A **neuron** (also called a perceptron) is the simplest unit in a neural network. It mimics a biological neuron: it receives signals (inputs), processes them (weighted sum + bias), and fires (activation function).
 
