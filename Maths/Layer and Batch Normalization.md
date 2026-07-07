@@ -53,3 +53,12 @@ A small constant added to the variance to prevent division by zero.
 ![[Pasted image 20260707175900.png]]
 
 
+
+
+![[Pasted image 20260707222616.png]]
+
+
+![[Pasted image 20260707222633.png]]
+
+![[Pasted image 20260707222705.png]]
+
