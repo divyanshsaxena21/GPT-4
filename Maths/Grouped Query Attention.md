@@ -1,5 +1,5 @@
 
-Your multi-head attention gives every head its own K and V projections. But during inference with KV-Cache, storing K and V for all heads is expensive. Grouped Query Attention (GQA) shares K and V across groups of heads, achieving the same quality with a fraction of the memory.
+Your multi-head attention gives every head its own K and V projections. But during inference with KV-Cache, storing $K$ and $V$ for all heads is expensive. Grouped Query Attention (GQA) shares K and V across groups of heads, achieving the same quality with a fraction of the memory.
 
 
 **The Spectrum of Attention**
